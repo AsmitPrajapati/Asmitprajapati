@@ -4,7 +4,7 @@ Welcome to my Github profile!
 
 
 <div align="left">
-  <h3>📚 Currently learning:</h3>
+  <h3>📚 Currently I'm learning:</h3>
    Artificial Intelligence and Machine Learning
 </div>
 
