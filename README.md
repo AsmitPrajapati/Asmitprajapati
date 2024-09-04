@@ -35,7 +35,7 @@ Welcome to my Github profile!
 #
 <h3 align="left">📫Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/Asmit Prajapati/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmit" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/asmit-prajapati/" target="_blank"><img src="https://www.google.com/search?sca_esv=1770ddd784d6ffcb&sca_upv=1&rlz=1C1RXQR_en-GBIN1069IN1069&sxsrf=ADLYWIKYaVuz4Vuqi5UujMaFeCGyimJuJw:1725418863079&q=linkedin+original+logo&udm=2&fbs=AEQNm0DPvcmG_nCbmwtBO9j6YBzM68ZanC7g01Skprhw5JoufUv28nkH7BlZuPSVPZEeFf4zEsryEwMB77hXASo0GX6k-t8o-ZW9DI4OVv3_4hsmtvv4wJeJFE-FsZTv76l11JrE03pHlia2Z0BSyd8hEJszevzI2wUPL1_8dIlon9YzSOszw37otQo0etlzoNFrYCc9aO0FjPFj4yaVH9D1PwDhy9XFYQ&sa=X&ved=2ahUKEwiKqrCTpqiIAxXbSGcHHYwmKRAQtKgLegQIFxAB&biw=786&bih=778&dpr=1.25#vhid=_Z2R78fy2khwyM&vssid=mosaic" alt="LinkedIn" width="40"></a>
 </p>
 
 ###
