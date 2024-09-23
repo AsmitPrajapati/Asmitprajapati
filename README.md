@@ -30,7 +30,6 @@ Welcome to my Github profile!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
 </div>
 
-
 <h3 align="left">📫Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/asmit-prajapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmit prajapati" height="30" width="40" /></a>
